@@ -556,7 +556,7 @@ import ENV && \close service system;
 ```
 
 
-## Open Source Handcrafted by Cody Bunnnell
+## Open Source Handcrafted by Cody Bunnell
 ## License
 ```
   ## Credits 2021 The Open Source Folks Online (Application Form Seek Value Aswell ,+.)
